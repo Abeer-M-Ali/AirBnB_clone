@@ -278,6 +278,6 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 
-- [Abeer Ragab](https://github.com/Abeer-M-Ali) | [Linkedin](https://www.linkedin.com/in/abeer-ragab-b25872260/) | [Twitter](https://twitter.com/abeerragab5211) | 
+- [Abeer Ragab](https://github.com/Abeer-M-Ali) | [Linkedin](https://www.linkedin.com/in/abeer-ragab-b25872260/) |
 ## Credit
-*Abeer Ragab* - [Github](https://github.com/Abeer-M-Ali) | [Twitter](https://twitter.com/abeerragab5211)| [Linkedin](https://www.linkedin.com/in/abeer-ragab-b25872260/) |
+*Abeer Ragab* - [Github](https://github.com/Abeer-M-Ali) | [Linkedin](https://www.linkedin.com/in/abeer-ragab-b25872260/) |
