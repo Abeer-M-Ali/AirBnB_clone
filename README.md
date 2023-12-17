@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231207T153521Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=90d04b046d7073917e00b70f18d546959e295da5acafece3c4efd4fc58ae708f" alt="AirBnB logo">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aydentownsley.com%2F&psig=AOvVaw0R_2RMpI-I3Dnb4jqzsJ-m&ust=1702913597918000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDgk9zlloMDFQAAAAAdAAAAABAD" alt="AirBnB logo">
 </p>
 
 <h1 align="center">AirBnB</h1>
