@@ -280,4 +280,3 @@ $ python3 unittest -m tests/test_console.py
 
 - [Abeer Ragab](https://github.com/Abeer-M-Ali) | [Linkedin](https://www.linkedin.com/in/abeer-ragab-b25872260/) |
 ## Credit
-*Abeer Ragab* - [Github](https://github.com/Abeer-M-Ali) | [Linkedin](https://www.linkedin.com/in/abeer-ragab-b25872260/) |
