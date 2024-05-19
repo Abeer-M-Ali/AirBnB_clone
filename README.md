@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.mondandy.fr/wp-content/uploads/2018/03/La-conciergerie-Airbnb-une-tendance-en-vogue-1.jpg" alt="AirBnB logo">
+  <img src="https://www.mondandy.fr/wp-content/uploads/2018/03/La-conciergerie-Airbnb-une-tendance-en-vogue-1.jpg" width="450" alt="AirBnB logo">
 </p>
 
 <h1 align="center">AirBnB</h1>
